@@ -1,0 +1,9 @@
+print(" ")#espacio
+print("Lira Hernandez Dayana Yamileth 1191")#datos del realizador
+print(" ")#espacio
+#13 Argumentos sólo posicionales 
+def my_function(x, /):#define la funcion
+    print(x)#imprime el valor de x
+
+my_function(3)#indica el valor de x
+print(" ")#espacio
